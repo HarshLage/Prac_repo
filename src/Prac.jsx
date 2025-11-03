@@ -23,6 +23,7 @@ export default function set_Prac(){
         <div>this is the another page just for the fun </div>
         <div>i Need to commit to the main branch and do the practice for kind of things </div>
         <div onClick={HandleExport}>submithtings </div>
+        <p>change for the github </p>
     </div>
     );
 }
